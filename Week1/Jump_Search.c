@@ -27,7 +27,6 @@ int main()
             if(a[i]==k)
              {
                printf("Present ");
-               printf("%d",c);
                flag=1;
                break;
              }
